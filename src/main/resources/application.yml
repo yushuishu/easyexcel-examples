@@ -1,0 +1,6 @@
+server:
+  port: 7080
+shuishu:
+  file:
+    root-dir: D:\excel\file
+
